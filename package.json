@@ -58,7 +58,7 @@
 		"husky": "^8.0.2",
 		"lint-staged": "^13.0.3",
 		"miniflare": "^2.11.0",
-		"postcss": "^8.4.19",
+		"postcss": "^8.4.31",
 		"prettier": "^2.6.2",
 		"remix-flat-routes": "^0.4.8",
 		"rimraf": "^3.0.2",
